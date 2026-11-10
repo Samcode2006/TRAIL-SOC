@@ -1,0 +1,4 @@
+TRAIL-SOC documentation package
+Version: 1.0
+Generated: 2026-11-10
+Source basis: user's five-slide Cyberforge / TRAIL-SOC proposal, expanded with explicit engineering recommendations.
